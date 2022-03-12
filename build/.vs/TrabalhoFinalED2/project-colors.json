@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a29eeaa-6fb6-3a68-94f1-2616777b4493": {
+      "ProjectGuid": "5a29eeaa-6fb6-3a68-94f1-2616777b4493",
+      "DisplayName": "main",
+      "ColorIndex": 0
+    },
+    "1a7cf897-cee6-3161-b4f3-3bea14da9142": {
+      "ProjectGuid": "1a7cf897-cee6-3161-b4f3-3bea14da9142",
+      "DisplayName": "grafo",
+      "ColorIndex": 1
+    },
+    "0a6e7f39-bfb3-38f4-bcc9-82e662302e42": {
+      "ProjectGuid": "0a6e7f39-bfb3-38f4-bcc9-82e662302e42",
+      "DisplayName": "Dijkstra",
+      "ColorIndex": 2
+    },
+    "4ee2dd06-3453-3c56-9048-1dfa3e8689eb": {
+      "ProjectGuid": "4ee2dd06-3453-3c56-9048-1dfa3e8689eb",
+      "DisplayName": "Leitura",
+      "ColorIndex": 3
+    },
+    "0c9e49f0-f503-323a-ab2c-6d6d89c2c984": {
+      "ProjectGuid": "0c9e49f0-f503-323a-ab2c-6d6d89c2c984",
+      "DisplayName": "ItemLista",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "d1c38145-7a4a-3325-9e08-5be3344a2c90": {
+      "ProjectGuid": "d1c38145-7a4a-3325-9e08-5be3344a2c90",
+      "DisplayName": "CaminhoMinimo_GAO",
+      "ColorIndex": 5
+    },
+    "57ae9f96-5a7e-3d4b-bc46-ee4fd0cc87c2": {
+      "ProjectGuid": "57ae9f96-5a7e-3d4b-bc46-ee4fd0cc87c2",
+      "DisplayName": "BuscaProfundidade",
+      "ColorIndex": 6
+    },
+    "700f4a3d-a1c9-3a9f-b126-d63cc85a0fc2": {
+      "ProjectGuid": "700f4a3d-a1c9-3a9f-b126-d63cc85a0fc2",
+      "DisplayName": "EscritaLog",
+      "ColorIndex": 7
+    },
+    "5bd3766f-f62e-36fe-99c4-899c26b628df": {
+      "ProjectGuid": "5bd3766f-f62e-36fe-99c4-899c26b628df",
+      "DisplayName": "CaminhoMinimo_GAO",
+      "ColorIndex": 8
+    },
+    "fe155055-bc1a-32b2-a679-364632bc297f": {
+      "ProjectGuid": "fe155055-bc1a-32b2-a679-364632bc297f",
+      "DisplayName": "main",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

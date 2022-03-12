@@ -1,0 +1,878 @@
+SUCESSSO NA ABERTURA DO ARQUIVO PARA LEITURA DO GRAFO!!
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método setVertice da classe ItemLista executado.
+Método setPeso da classe ItemLista executado.
+Contrutor da classe Grafo executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getLista da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Contrutor da classe Grafo executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getNumVertices da classe Grafo.
+Contrutor da classe Dijkstra executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método Algoritmo da classe Dijkstra executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  3  4  5  
+
+Visistados: 1  
+
+Distância (vértice:distância): 1:0  2:10  3:2147483647  4:2147483647  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:1  3:0  4:0  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  3  4  5  
+
+Visistados: 1  
+
+Distância (vértice:distância): 1:0  2:10  3:5  4:2147483647  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:1  3:1  4:0  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  4  5  
+
+Visistados: 1  3  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:2147483647  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:0  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  4  5  
+
+Visistados: 1  3  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:14  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:3  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  4  5  
+
+Visistados: 1  3  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:14  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:3  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  4  
+
+Visistados: 1  3  5  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:14  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:3  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  4  
+
+Visistados: 1  3  5  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:5  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 4  
+
+Visistados: 1  3  5  2  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:5  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 4  
+
+Visistados: 1  3  5  2  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:9  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 
+
+Visistados: 1  3  5  2  4  
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:9  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 1 até 1
+Método ImprimeCaminhos da classe Dijkstra executado.
+1
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 1 até 2
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+1 - 3 - 2
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 1 até 3
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+1 - 3
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 1 até 4
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+1 - 3 - 2 - 4
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 1 até 5
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+1 - 3 - 5
+
+Chamada do método getNumVertices da classe Grafo.
+
+
+SAÍDA DO ALGORITMO DE DIJKSTRA!! 
+
+
+Destrutor da classe Dijkstra executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getNumVertices da classe Grafo.
+Contrutor da classe Dijkstra executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método Algoritmo da classe Dijkstra executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 1  2  3  4  
+
+Visistados: 5  
+
+Distância (vértice:distância): 1:7  2:2147483647  3:2147483647  4:2147483647  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:0  3:0  4:0  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 1  2  3  4  
+
+Visistados: 5  
+
+Distância (vértice:distância): 1:7  2:2147483647  3:2147483647  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:0  3:0  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 1  2  3  
+
+Visistados: 5  4  
+
+Distância (vértice:distância): 1:7  2:2147483647  3:2147483647  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:0  3:0  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  3  
+
+Visistados: 5  4  1  
+
+Distância (vértice:distância): 1:7  2:17  3:2147483647  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:1  3:0  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  3  
+
+Visistados: 5  4  1  
+
+Distância (vértice:distância): 1:7  2:17  3:12  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:1  3:1  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  
+
+Visistados: 5  4  1  3  
+
+Distância (vértice:distância): 1:7  2:15  3:12  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:3  3:1  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  
+
+Visistados: 5  4  1  3  
+
+Distância (vértice:distância): 1:7  2:15  3:12  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:3  3:1  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 2  
+
+Visistados: 5  4  1  3  
+
+Distância (vértice:distância): 1:7  2:15  3:12  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:3  3:1  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método ExtrairMinimo da classe Dijkstra executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 
+
+Visistados: 5  4  1  3  2  
+
+Distância (vértice:distância): 1:7  2:15  3:12  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:3  3:1  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe Dijkstra executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Abertos: 
+
+Visistados: 5  4  1  3  2  
+
+Distância (vértice:distância): 1:7  2:15  3:12  4:4  5:0  
+
+Predecessor (vértice:predecessor): 1:5  2:3  3:1  4:5  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 5 até 1
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+5 - 1
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 5 até 2
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+5 - 1 - 3 - 2
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 5 até 3
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+5 - 1 - 3
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 5 até 4
+Método ImprimeCaminhos da classe Dijkstra executado.
+Método ImprimeCaminhos da classe Dijkstra executado.
+5 - 4
+
+Chamada do método getNumVertices da classe Grafo.
+Caminho: 5 até 5
+Método ImprimeCaminhos da classe Dijkstra executado.
+5
+
+Chamada do método getNumVertices da classe Grafo.
+
+
+SAÍDA DO ALGORITMO DE DIJKSTRA!! 
+
+
+Destrutor da classe Dijkstra executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Contrutor da classe CaminhosMinimos_GAO executado.
+Contrutor da classe BuscaProfundidade executado.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Método DFS_Visit da classe BuscaProfundidade executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método DFS_Visit da classe BuscaProfundidade executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método DFS_Visit da classe BuscaProfundidade executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método DFS_Visit da classe BuscaProfundidade executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método DFS_Visit da classe BuscaProfundidade executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Método ordenacaoFinal da classe BuscaProfundidade executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getOrdemFinal da classe BuscaProfundidade executado.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Chamada do método getNumVertices da classe Grafo.
+Destrutor da classe BuscaProfundidade executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método Algoritmo da classe CaminhosMinimos_GAO executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:10  3:2147483647  4:2147483647  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:1  3:0  4:0  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:10  3:5  4:2147483647  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:1  3:1  4:0  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:10  3:5  4:2147483647  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:1  3:1  4:0  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:10  3:5  4:11  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:1  3:1  4:2  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:2147483647  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:0  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getListaVerticeAdjacente da classe Grafo.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Método getVertice da classe ItemLista executado.
+Método Relaxa da classe CaminhosMinimos_GAO executado.
+Chamada do método getVerticePeso da classe Grafo.
+Método getVertice da classe ItemLista executado.
+
+Distância (vértice:distância): 1:0  2:8  3:5  4:11  5:7  
+
+Predecessor (vértice:predecessor): 1:0  2:3  3:1  4:2  5:3  
+
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Chamada do método getNumVertices da classe Grafo.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Caminho: 1 até 1
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+1
+
+Chamada do método getNumVertices da classe Grafo.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Caminho: 1 até 2
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+1 - 3 - 2
+
+Chamada do método getNumVertices da classe Grafo.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Caminho: 1 até 3
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+1 - 3
+
+Chamada do método getNumVertices da classe Grafo.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Caminho: 1 até 4
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+1 - 3 - 2 - 4
+
+Chamada do método getNumVertices da classe Grafo.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Método detPrimeiroVertice da classe CaminhosMinimos_GAO executado.
+Caminho: 1 até 5
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+Método ImprimeCaminhos da classe CaminhosMinimos_GAO executado.
+1 - 3 - 5
+
+Chamada do método getNumVertices da classe Grafo.
+
+
+SAÍDA DO ALGORITMO DE CAMINHOS_MINIMOS_GAO!! 
+
+
+Destrutor da classe CaminhosMinimos_GAO executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+
+
+SAINDO DO PROGRAMA...Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe LeituraGrafo executado.
+Destrutor da classe Grafo executao.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.
+Destrutor da classe ItemLista executado.

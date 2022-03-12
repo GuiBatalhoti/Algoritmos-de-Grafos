@@ -1,0 +1,10 @@
+^C:\USERS\GUILHERME\DOCUMENTS\FACULDADE\2021\ESTRUTURA DE DADOS 2\TRABALHO FINAL\IMPLEMENTACAO\BUILD\CMAKEFILES\25ACF78798DE674C42199EF0D08EAFB8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao" "-BC:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/TrabalhoFinalED2.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/headers/CMakeFiles/grafo.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/headers/CMakeFiles/ItemLista.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/headers/CMakeFiles/Leitura.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/headers/CMakeFiles/Dijkstra.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/headers/CMakeFiles/BuscaProfundidade.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/headers/CMakeFiles/CaminhoMinimo_GAO.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/headers/CMakeFiles/EscritaLog.dir
+C:/Users/Guilherme/Documents/Faculdade/2021/Estrutura de Dados 2/Trabalho Final/Implementacao/build/main/CMakeFiles/main.dir
